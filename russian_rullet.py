@@ -93,11 +93,11 @@ while answer != 'N':
     else:
         pass
 
-counter = 0
-while counter < 50:
-    counter += 1
+# counter = 0
+# while counter < 50:
+    # counter += 1
 
-while counter < 100:
-    counter += 1
+# while counter < 100:
+    # counter += 1
 
-print("Parametr: ", counter)
+# print("Parametr: ", counter)

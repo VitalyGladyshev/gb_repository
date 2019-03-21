@@ -139,8 +139,6 @@ def main():
         else:
             print("Неизвестный ответ")
 
-print("Новый парметр")
-
 
 if __name__ == "__main__":
     main()
