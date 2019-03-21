@@ -100,4 +100,4 @@ while counter < 50:
 while counter < 100:
     counter += 1
 
-print("Parametr: "counter)
+print("Parametr: ", counter)
