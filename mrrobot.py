@@ -15,7 +15,7 @@ import random
 import psutil
 
 
-def duplicate_file(filename):
+def duplicate_file(filename):   # функция дублирования файлов
     if os.path.isfile(filename):
         newfile = filename + '.dupl'
         shutil.copy(filename, newfile)  # копируй
