@@ -93,6 +93,11 @@ while answer != 'N':
     else:
         pass
 
-counter
-while True:
+counter = 0
+while counter < 50:
     counter += 1
+
+for counter < 100:
+    counter += 1
+
+print(counter)
