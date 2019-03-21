@@ -92,3 +92,7 @@ while answer != 'N':
 
     else:
         pass
+
+counter
+while True:
+    counter += 1
