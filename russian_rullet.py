@@ -91,4 +91,5 @@ while answer != 'N':
                 turtle.write("Вам везёт!", font=("Arial", 20, "normal"))
 
     else:
-        pass
+        gotoxy(-75, -50)
+        turtle.write("Введите Y или N")
